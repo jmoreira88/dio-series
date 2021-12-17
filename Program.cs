@@ -78,7 +78,6 @@ namespace DIO.Series
             Console.WriteLine($"{cumprimento} Bem vindo à DIOflix!");
 
 
-            Console.WriteLine("O que vamos aprender hoje?");
             Console.WriteLine(" ");
             Console.WriteLine("1 - Listar séries");
             Console.WriteLine("2 - Inserir série");
