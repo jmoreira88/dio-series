@@ -1,0 +1,5 @@
+C:\Users\jader\DIO\Series\obj\Debug\net6.0\Series.csproj.AssemblyReference.cache
+C:\Users\jader\DIO\Series\obj\Debug\net6.0\Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jader\DIO\Series\obj\Debug\net6.0\Series.AssemblyInfoInputs.cache
+C:\Users\jader\DIO\Series\obj\Debug\net6.0\Series.AssemblyInfo.cs
+C:\Users\jader\DIO\Series\obj\Debug\net6.0\Series.csproj.CoreCompileInputs.cache
