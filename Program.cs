@@ -51,35 +51,13 @@ namespace DIO.Series
                 }
             }
         } 
-                    
+
         private static string ObterOpcaoUsuario()
         {
-            // Lê a hora do PC e dá bom dia, boa tarde ou boa noite de acordo com o horário.
-
-            string cumprimento = "";
-            string momento =  DateTime.Now.ToString("HH:mm:ss");
-            string[] hora = momento.Split(':');
-            
-            int inthora = Convert.ToInt32(hora[0]);
-
-            if(inthora>6 && inthora<12)
-            {
-                 cumprimento = "Bom dia!";
-            }
-            else if(inthora>12 && inthora < 18)
-            {
-                cumprimento = "Boa tarde!";
-            }
-
-            else
-
-            {
-                cumprimento = "Boa noite!";
-            }
-
-            Console.WriteLine($"{cumprimento} Bem vindo à DIOflix!");
-        
-
+            Console.WriteLine();
+            //TODO => chamar datetime e dar bom dia/tarde/noite
+            Console.WriteLine("Bem vindo à DocLearn!");
+            Console.WriteLine("O que vamos aprender hoje?");
             Console.WriteLine(" ");
             Console.WriteLine("1 - Listar séries");
             Console.WriteLine("2 - Inserir série");
